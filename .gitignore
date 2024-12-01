@@ -1,0 +1,26 @@
+.DS_Store
+# Files and directories created by pub
+.dart_tool/
+.packages
+.pub/
+
+# If you're building an application, you may want to check-in your pubspec.lock
+pubspec.lock
+build/
+
+// Dart generated documentation
+doc/api/
+
+// IntelliJ
+.idea/*
+*.iml
+*.ipr
+*.iws
+
+// Flutter android and ios folders
+android/*
+ios/*
+
+
+
+res
